@@ -109,4 +109,4 @@ ENV/
 .mypy_cache/
 
 # vs code
-.vscodez
+.vscode
