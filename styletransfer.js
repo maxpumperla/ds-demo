@@ -3,12 +3,6 @@
 // This software is released under the MIT License.
 // https://opensource.org/licenses/MIT
 
-/* ===
-ml5 Example
-Style Transfer Mirror Example using p5.js
-This uses a pre-trained model of The Great Wave off Kanagawa and Udnie (Young American Girl, The Dance)
-=== */
-
 let style;
 let video;
 let isTransferring = false;
